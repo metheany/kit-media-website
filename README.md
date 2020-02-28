@@ -16,14 +16,14 @@ netlify preview: https://kitmedia-nuxt.netlify.com/
 * https://chikatomo-ryugaku.com/
 * http://news.sabay.com.kh/
 
-#### YouTube	
+### YouTube	
 * https://www.youtube.com/channel/UC5U1RIrxA21KviWc0vS-5pw/featured
 * https://www.youtube.com/channel/UCYAvu6nrJsY9jwXGTMrUGmw
 
 ### Izuka's Blog	
 * https://www.izuka.work/
 
-#### Sample Blog API
+### Sample Blog API
 * https://github.com/bouzuya/node-hatena-blog-api
 
 ### Assets	
